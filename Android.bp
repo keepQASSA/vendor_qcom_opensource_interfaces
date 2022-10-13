@@ -60,8 +60,3 @@ hidl_package_root {
     name: "vendor.qti.hardware.fstman",
     path: "vendor/qcom/opensource/interfaces/fstman",
 }
-
-hidl_package_root {
-    name: "vendor.qti.hardware.capabilityconfigstore",
-    path: "vendor/qcom/opensource/interfaces/capabilityconfigstore",
-}
